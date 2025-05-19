@@ -1,3 +1,3 @@
 name:sayana
-department:
+department:computer science
 roll no:23bcac54
